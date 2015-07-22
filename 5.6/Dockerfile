@@ -37,6 +37,7 @@ RUN apt-get update \
       php5-json \
       php5-gd \
       php5-fpm \
+      php5-xsl \
       php-pear \
       php-apc \
       sqlite3 libsqlite3-dev \
